@@ -61,10 +61,18 @@ namespace _24SOECE13010_Rahul_
             int len = str3.Length;
             Console.WriteLine("Length of string 1 is:"+len);
 
-
-
             str4 = Console.ReadLine();  
             Console.WriteLine(str4);
+
+            //combine the two strings
+            string combinedString = str2 + " " + str3;
+            Console.WriteLine("Combined String: " + combinedString);
+            //convert to uppercase
+            string upperString = combinedString.ToUpper();
+            Console.WriteLine("Uppercase String: " + upperString);
+            //interpolation of strings
+            string interpolatedString = $"The combined string is: {combinedString} and its length is: {combinedString.Length}";
+
 
 
 
