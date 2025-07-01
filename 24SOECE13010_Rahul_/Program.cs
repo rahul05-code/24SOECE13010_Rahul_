@@ -25,7 +25,7 @@ namespace _24SOECE13010_Rahul_
             string str;
             Console.WriteLine("Enter the string value:");
             str = Console.ReadLine();
-            Console.WriteLine(str);
+            Console.WriteLine(str);  
             int no1;
             no1 = 1;
 
@@ -43,7 +43,7 @@ namespace _24SOECE13010_Rahul_
 
             for (int i = 1; i <= 100; i++) {
 
-                if (i % 0) {
+                if () {
                 
                 }
             
