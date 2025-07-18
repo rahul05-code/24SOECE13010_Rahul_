@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2d_array.cs" />
+    <Compile Include="addtion_ary.cs" />
+    <Compile Include="array.cs" />
+    <Compile Include="array1.cs" />
+    <Compile Include="array_search.cs" />
+    <Compile Include="cmd_arg.cs" />
+    <Compile Include="freq_array.cs" />
+    <Compile Include="jagged_ary.cs" />
+    <Compile Include="jary_pattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="shorted_ary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
