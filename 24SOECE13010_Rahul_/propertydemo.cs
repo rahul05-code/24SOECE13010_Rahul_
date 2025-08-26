@@ -42,8 +42,8 @@ namespace _24SOECE13010_Rahul_
             demo.X = 10;
             demo.Y = 20;
             demo.show();
-            Console.WriteLine(demo.X);
-            Console.WriteLine(demo.Y);
+            Console.WriteLine(demo.);
+            Console.WriteLine(demo.);
         }
     }
 }
