@@ -53,6 +53,7 @@
     <Compile Include="cmd_arg.cs" />
     <Compile Include="const.cs" />
     <Compile Include="constructor.cs" />
+    <Compile Include="example.cs" />
     <Compile Include="freq_array.cs" />
     <Compile Include="jagged_ary.cs" />
     <Compile Include="jary_pattern.cs" />
